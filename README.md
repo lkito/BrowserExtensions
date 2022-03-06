@@ -1,1 +1,1 @@
-"# BrowserExtensions" 
+# BrowserExtensions
